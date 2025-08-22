@@ -4,7 +4,7 @@
   "name": "AttendanceTracker",
   "display": "standalone",
   "start_url": "/",
-  "short_name": "starter",
+  "short_name": "atd",
   "theme_color": "#E1477E",
   "description": "This is a AttendanceTracker app",
   "orientation": "any",
